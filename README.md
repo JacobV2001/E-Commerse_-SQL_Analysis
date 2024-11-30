@@ -6,6 +6,12 @@ This sql project aims to explore the churning and funnel rates throughout an E-c
 
 - **How do users interact with an e-commerce website, and does their device type (Desktop vs. Mobile) or gender influence their patterns and conversion rates? Additionally, what is the funnel rate for users moving through the website's pages?**
 
+1. [Project Overview](#project-overview)
+2. [Data Schema](#data-schema)
+3. [SQL Techniques](#sql-techniques)
+4. [Analysis Questions](#analysis-questions)
+5. [Conclusion](#conclusion)
+
 ## Data Schema:
 
 The [dataset](https://www.kaggle.com/datasets/aerodinamicc/ecommerce-website-funnel-analysis/data) used in this project tracks user interactions across multiple pages and contains the following attributes:
