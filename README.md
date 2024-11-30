@@ -1,8 +1,8 @@
-# SQL Project: Exploring E-commerce Website Analysis with Funnels & Churning Rate
+# SQL Project: Exploring E-commerce Website Analysis with Funnels
 
 ## Project Overview
 
-This sql project aims to explore the churning and funnel rates throughout an E-commerce Website and explore the impact that gender and device type have on them. The project uses a dataset of different tables to explore the rates and provied insight onto how producers can increase their sales rates. The primary question addressed is:
+This sql project aims to explore the funnel rates throughout an E-commerce Website and explore the impact that gender and device type have on them. The project uses a dataset of different tables to explore the rates and provied insight onto how producers can increase their sales rates. The primary question addressed is:
 
 - **How do users interact with an e-commerce website, and does their device type (Desktop vs. Mobile) or gender influence their patterns and conversion rates? Additionally, what is the funnel rate for users moving through the website's pages?**
 
